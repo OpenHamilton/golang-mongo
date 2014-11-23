@@ -23,3 +23,5 @@ This program was written using the latest version to date(Aug 2014) of each the 
  * The lib/loadmgostoptimes.go file loads the stopstimes.txt file into the mongodb.
  * The lib/loadmgotrips.go file loads the trips.txt file into the mongodb.
 
+LICENSE: Creative Commons
+Attribution 4.0 International
